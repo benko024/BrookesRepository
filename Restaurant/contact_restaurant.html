@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--Brooke Benkovich
+Date Created: 04/02/2020
+Most Recent Revision: 04/02/2020 at 7:38PM-->
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, 
+    shrink-to-fit=no">
+
+    <title>Contact Us</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" 
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+    crossorigin="anonymous"> 
+
+    <script src="https://kit.fontawesome.com/035810cf78.js" crossorigin="anonymous"></script>
+
+    <link href="styles/main.css" rel="stylesheet" type="text/css"/>
+    
+    
+
+        
+
+    <style>
+            body {
+                background-color: #f5c8a7;
+                color: #123650;
+                max-width: 1000px;
+                margin: 0 auto;
+                font-family: 'Open Sans', sans-serif;
+                
+            }
+
+            .required{
+                font-weight:bold;
+            }
+
+            label {
+                max-width: 300px;
+                margin: 0 auto;
+                font-weight: bold;
+                color:#123650;
+            }
+   
+            input {
+                max-width: 300px;
+                margin: 0 auto;
+            }
+    </style>
+
+</head>
+
+
+
+
+
+<body>
+
+    <header   align="center">
+        <h1>The Oasis</h1>
+    </header>
+
+    
+
+    <nav>
+        
+            <p>
+                    <a href="home_restaurant.html">
+                            <i class="fas fa-home"></i>
+                    </a>
+          
+                <a href="menu_restaurant.html" class="btn badge-pill">Menu</a>
+         
+                <a href="contact_restaurant.html" class="btn badge-pill">Contact Us</a>
+            </p>
+            
+    </nav>
+    
+    
+    <section align="center">
+        <article>
+            <form action="fakePage.html" method="GET" class="was-validated">
+                <div class="form-group">
+                    <br />
+
+                    <label for="Name">Name:</label>
+                    <input type="text" class="form-control" id="Name" name="inputfield"
+                    required/>
+                    
+                    <div class="valid-feedback">Thank you for submitting your name!</div>
+                    <div class="invalid-feedback">Please fill out this field.</div>
+                </div>
+                    <br />
+                    <br />
+
+                <div class="form-group">
+                    <label for="Email">Email:</label>
+                    <input type="text" id="Email" name="inputfield" class="form-control"
+                    required/>
+
+                    <div class="valid-feedback">Thank you!</div>
+                    <div class="invalid-feedback">Please filll out this field.</div>
+                </div>
+                    <br />
+                    <br />
+                
+                <div class="form-group">
+                    <label for="Phone">Phone:</label>
+                    <input type="text" id="Phone" name="inputfield" class="form-control" 
+                    required />
+
+                    <div class="valid-feedback">Thanks for the number!</div>
+                    <div class="invalid-feedback">Please filll out this field.</div>
+                
+                </div>
+                    <br />
+                    <br />
+
+                
+                    <label for="Reason">Reason for Inquiry:</label>
+                    <select id="Reason" name="Reason">
+                        <option value="catering" selected>Catering</option>
+                        <option value="Private Party">Private Party</option>
+                        <option value="Feedback">Feedback</option>
+                        <option value="other">Other</option>
+                    </select>
+
+                    <br />
+                    <br/>
+
+                    <label for="AdditionalInfo">Additional Information:</label>
+                    <textarea name="AdditionalInfo"></textarea>
+
+                    <br />
+                    <br />
+                
+                    <p style="font-weight:bold; color: #123650">Have you been to the restaurant?</p>
+                    <input type="radio" id="yes" name="HasBeen" value="yes"/>
+                    <label for="BeenB4">Yes</label>
+
+                    <input type="radio" id="no" name="HasBeen" value="no"/>
+                    <label for="BeenB4">No</label>
+
+
+                    <br />
+                    <br />
+
+       
+                    <label for="BestDays">Best days to contact you:</label>
+                    <input type="checkbox" name="BestDays" value="M" />M
+                    <input type="checkbox" name="BestDays" value="T" />T
+                    <input type="checkbox" name="BestDays" value="T" />W
+                    <input type="checkbox" name="BestDays" value="T" />Th
+                    <input type="checkbox" name="BestDays" value="T" />F
+
+                    <br />
+                    <br />
+                
+                
+                <input type="submit" value="Send Request" />
+
+                    
+            </form>
+        </article>
+    </section>
+
+    <br />
+    <footer align="center">
+        <p>
+            Decent Food Lane, Minneapolis, MN, 12345
+            <br />
+            <br />
+            1-800-Please-Eat-Here
+        </p> 
+    </footer>
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
+     integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" 
+     crossorigin="anonymous">
+     </script>
+     
+     
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+     integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" 
+     crossorigin="anonymous">
+     </script>
+     
+     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" 
+     integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" 
+     crossorigin="anonymous">
+     </script>
+
+
+</body>
+
+
+
+
+
+
+
+</html>
