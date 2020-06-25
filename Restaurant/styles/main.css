@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 Creator: Brooke Benkovich
 Date Created: 04/14/2020
@@ -53,4 +54,61 @@ nav .btn:hover {
 nav .btn:active {
     background-color: #123650;
     text-decoration: none;
+=======
+/*
+Creator: Brooke Benkovich
+Date Created: 04/14/2020
+Date last modified: 04/14/2020
+*/
+
+
+
+header, footer {
+    background-color: #123650;
+    color: #cecece;
+    text-align: center;
+    padding: 30px 10px 20px 10px;
+    font-family: 'Lexend Giga', sans-serif;
+}
+
+header {
+    font-size: x-large;
+    height: 150px;
+}
+
+footer {
+    height: 150px;
+    border-top: 8px solid #ab6134;
+}
+
+
+/*unvisited link*/
+nav {
+    border-top: 8px solid #ab6134;
+    border-bottom: 8px solid #ab6134;
+    font-size: large;
+    color:#00c5cd;
+    padding: 10px;
+
+}
+
+/*visited link*/
+a:visited {
+    color: #d9463e;
+}
+
+nav .btn {
+    background-color: #d9463e;
+    color: #cecece;
+}
+
+nav .btn:hover {
+    font-weight: bold;
+    
+}
+
+nav .btn:active {
+    background-color: #123650;
+    text-decoration: none;
+>>>>>>> d8d8ec03ccf31affc63bfc12ac263b5bdd2da888
 }
