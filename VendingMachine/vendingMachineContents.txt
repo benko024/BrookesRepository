@@ -1,0 +1,18 @@
+1::Lays Original Oven Baked Potato Chips::1.35::10
+2::SunChips Multigrain Garden Salsa Chips::1.40::9
+3::Doritos Nacho Cheese Chips::1.30::5
+4::Kettle Brand Sea Salt and Vinegar Potato Chips::1.35::10
+5::King Size 100 Grand Bar::1.75::8
+6::King Size Almond Joy::1.60::7
+7::Jumbo Butterfinger Bar::1.70::9
+8::Dove Dark Chocolate Bar::2.10::8
+9::King Size Mounds Bar::1.50::9
+10::Snack Size Fig Newtons::1.20::8
+11::Fiber One Soft Baked Oatmeal Raisin Cookie::1.00::9
+12::Mini Oreos Snack Pack::1.30::8
+13::Grandmas Homestyle PB Cookie::1.20::10
+14::Planters Nut and Chocolate Trail Mix::3.00::7
+15::Kars Sweet n Salty Trail Mix::1.90::8
+16::Kars sriracha peanuts::1.50::8
+17::Wonderful Pistachios::3.30::8
+18::Royal Hawaiian Dark Chocolate Blueberry Acai Macadamias::3.00::9

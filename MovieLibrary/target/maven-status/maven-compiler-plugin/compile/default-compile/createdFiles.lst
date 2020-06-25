@@ -1,0 +1,10 @@
+com\sg\movielibrary\dao\MovieLibraryDaoException.class
+com\sg\movielibrary\ui\UserIOConsoleImpl.class
+com\sg\movielibrary\dao\MovieLibraryDaoFileImpl.class
+com\sg\movielibrary\dao\MovieLibraryDao.class
+com\sg\movielibrary\dao\MovieLibraryDaoDBImpl.class
+com\sg\movielibrary\dto\Movie.class
+com\sg\movielibrary\controller\MovieLibraryController.class
+com\sg\movielibrary\ui\UserIO.class
+com\sg\movielibrary\ui\MovieLibraryView.class
+com\sg\movielibrary\App.class

@@ -1,0 +1,16 @@
+com\sg\vendingmachine\service\InvalidItemException.class
+com\sg\vendingmachine\dao\VendingMachineDaoException.class
+com\sg\vendingmachine\service\VendingMachineService.class
+com\sg\vendingmachine\ui\UserIOConsoleImpl.class
+com\sg\vendingmachine\ui\UserIO.class
+com\sg\vendingmachine\dao\NoExistingFileException.class
+com\sg\vendingmachine\ui\VendingMachineView.class
+com\sg\vendingmachine\service\NotEnoughMoneyException.class
+com\sg\vendingmachine\dto\Item.class
+com\sg\vendingmachine\app.class
+com\sg\vendingmachine\service\Change.class
+com\sg\vendingmachine\dao\VendingMachineDao.class
+com\sg\vendingmachine\dao\VendingMachineDaoFileImpl.class
+com\sg\vendingmachine\controller\VendingMachineController.class
+com\sg\vendingmachine\service\NegativeMoneyException.class
+com\sg\vendingmachine\service\NoItemsLeftException.class

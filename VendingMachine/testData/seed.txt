@@ -1,0 +1,4 @@
+1::Lays Original Oven Baked Potato Chips::1.35::10
+2::SunChips Multigrain Garden Salsa Chips::1.40::9
+3::Doritos Nacho Cheese Chips::1.30::5
+4::Kettle Brand Sea Salt and Vinegar Potato Chips::1.35::0

@@ -1,0 +1,5 @@
+1::Movie title::relase::rating::director 1::studio::some notes
+4::New MOvie::2020::PG 1000::Ryan O'Connor::Ramsgate productions::This movie is faaaaaake
+5::The Jungle Book::1950::R::Made up director::Walt Disney::This movie is an old disney movie and is a bit racist...
+6::Black Beauty::1930::G::Director akfjl;lasdfj::the number one studio in the universe::nope
+7::new moviea kjafd; kjlads::202303::lkasdjf::dafs;jasfd::asdf::asdsadsdafsdajflasd kjfsda jf ;alkjf kl;dsajf;l jsda;f klsda;flk sjda;f l;sajd fjs;a 

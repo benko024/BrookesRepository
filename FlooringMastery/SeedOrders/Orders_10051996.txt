@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Ryan O'Connor,CA,25.00,Tile,100,3.50,4.15, 350,415,191.25,956.25
+2,Julie O'Connor,CA,25.00,Carpet,100,2.25,2.10,225,210,108.75,543.75
+3,Kevin O'Connor,WA,9.25,Wood,150,5.15,4.75,772.50,712.50,137.36,1622.36

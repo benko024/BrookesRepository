@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Rupert Grint,WA,9.25,Tile,150,3.50,4.15,525.00,622.50,106.14,1253.64

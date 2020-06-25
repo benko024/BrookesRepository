@@ -1,0 +1,3 @@
+com\sg\vendingmachine\dao\VendingMachineDaoFileImplTest.class
+com\sg\vendingmachine\dao\VendingMachineInMemDao.class
+com\sg\vendingmachine\service\VendingMachineServiceTest.class
